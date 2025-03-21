@@ -36,6 +36,10 @@
 
 ### 教务系统
 
+### 签到脚本
+
+- [Github - zeroduhyy/iclass_buaa](https://github.com/zeroduhyy/iclass_buaa)【PYTHON】实现远程上课签到
+
 #### 选课脚本
 
 - [GitHub - Colorfulshadow/buaa_course_enrollment: 旨在自动化北京航空航天大学（BUAA）的课程选课过程。](https://github.com/Colorfulshadow/buaa_course_enrollment)【PYTHON】选课、抢课，有说明注视以及使用文档
