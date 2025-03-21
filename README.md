@@ -36,7 +36,7 @@
 
 ### 教务系统
 
-### 签到脚本
+#### 签到脚本
 
 - [Github - zeroduhyy/iclass_buaa](https://github.com/zeroduhyy/iclass_buaa)【PYTHON】实现远程上课签到
 
